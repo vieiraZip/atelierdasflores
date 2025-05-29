@@ -3,31 +3,56 @@
       "nome": "Buquê 6 rosas",
       "tipo": "Buquê",
       "preço": "152,00",
-      "imagem": "6rosas.png"
+      "imagem": "6rosas.jpg"
     },
     {
       "nome": "Buquê Luxury",
       "tipo": "Buquê",
       "preço": "220,00",
-      "imagem": "luxury.png"
+      "imagem": "luxury.jpg"
     },
     {
       "nome": "Rosa Unitária",
       "tipo": "Buquê",
       "preço": "24,90",
-      "imagem": "rosa.png"
+      "imagem": "rosa.jpg"
     },
     {
       "nome": "Trio de Girassóis",
       "tipo": "Buquê",
       "preço": "140,00",
-      "imagem": "triogirassois.png"
+      "imagem": "triogirassois.jpg"
     },
     {
       "nome": "Buquê Mix G",
       "tipo": "Buquê",
       "preço": "185,00",
-      "imagem": "mix.png"
+      "imagem": "mix.jpg"
+    },
+    {
+      "nome": "Little Cestas",
+      "tipo": "Cesta",
+      "preço": "150,00",
+      "imagem": "littlecesta.jpeg"
+    },
+    {
+      "nome": "Amore Mio",
+      "tipo": "Cesta",
+      "preço": "265,00",
+      "imagem": "amore.jpeg"
+    },
+    {
+      "nome": "Delícia Fit",
+      "tipo": "Cesta",
+      "preço": "285,00",
+      "imagem": "fit.jpeg"
+    },
+    {
+      "nome": "Café Encanto",
+      "tipo": "Cesta",
+      "preço": "225,00",
+      "imagem": "encanto.jpeg"
     }
   ]
+
   
