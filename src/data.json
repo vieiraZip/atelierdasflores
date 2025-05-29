@@ -1,0 +1,33 @@
+[
+    {
+      "nome": "Buquê 6 rosas",
+      "tipo": "Buquê",
+      "preço": "152,00",
+      "imagem": "6rosas.png"
+    },
+    {
+      "nome": "Buquê Luxury",
+      "tipo": "Buquê",
+      "preço": "220,00",
+      "imagem": "luxury.png"
+    },
+    {
+      "nome": "Rosa Unitária",
+      "tipo": "Buquê",
+      "preço": "24,90",
+      "imagem": "rosa.png"
+    },
+    {
+      "nome": "Trio de Girassóis",
+      "tipo": "Buquê",
+      "preço": "140,00",
+      "imagem": "triogirassois.png"
+    },
+    {
+      "nome": "Buquê Mix G",
+      "tipo": "Buquê",
+      "preço": "185,00",
+      "imagem": "mix.png"
+    }
+  ]
+  
