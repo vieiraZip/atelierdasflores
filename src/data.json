@@ -3,55 +3,64 @@
       "nome": "Buquê 6 rosas",
       "tipo": "Buquê",
       "preço": "152,00",
-      "imagem": "6rosas.jpg"
+      "imagem": "6rosas.jpg",
+      "Descricao": "Elegante buquê com 6 rosas vermelhas frescas, embalado com papel decorativo e laço de cetim. Perfeito para demonstrar amor e carinho."
     },
     {
       "nome": "Buquê Luxury",
       "tipo": "Buquê",
       "preço": "220,00",
-      "imagem": "luxury.jpg"
+      "imagem": "luxury.jpg",
+      "Descricao": "Arranjo premium com rosas importadas, flores complementares e embalagem luxuosa. Uma escolha sofisticada para ocasiões especiais."
     },
     {
       "nome": "Rosa Unitária",
       "tipo": "Buquê",
       "preço": "24,90",
-      "imagem": "rosa.jpg"
+      "imagem": "rosa.jpg",
+      "Descricao": "Rosa vermelha individual de alta qualidade, ideal para gestos simples mas significativos. Embalada com carinho."
     },
     {
       "nome": "Trio de Girassóis",
       "tipo": "Buquê",
       "preço": "140,00",
-      "imagem": "triogirassois.jpg"
+      "imagem": "triogirassois.jpg",
+      "Descricao": "Alegre combinação de 3 girassóis vibrantes, simbolizando felicidade e energia positiva. Perfeito para alegrar o dia."
     },
     {
       "nome": "Buquê Mix G",
       "tipo": "Buquê",
       "preço": "185,00",
-      "imagem": "mix.jpg"
+      "imagem": "mix.jpg",
+      "Descricao": "Generoso buquê misto com variedade de flores da estação, criando uma composição colorida e harmoniosa."
     },
     {
       "nome": "Little Cestas",
       "tipo": "Cesta",
       "preço": "150,00",
-      "imagem": "littlecesta.jpeg"
+      "imagem": "littlecesta.jpeg",
+      "Descricao": "Cesta compacta e elegante com seleção especial de guloseimas doces e salgadas. Ideal para presentear com carinho."
     },
     {
       "nome": "Amore Mio",
       "tipo": "Cesta",
       "preço": "265,00",
-      "imagem": "amore.jpeg"
+      "imagem": "amore.jpeg",
+      "Descricao": "Cesta romântica com chocolates gourmet, vinhos selecionados e itens especiais para momentos a dois. Perfeita para demonstrar amor."
     },
     {
       "nome": "Delícia Fit",
       "tipo": "Cesta",
       "preço": "285,00",
-      "imagem": "fit.jpeg"
+      "imagem": "fit.jpeg",
+      "Descricao": "Cesta saudável com produtos naturais, frutas secas, chocolates diet e itens fit. Para quem cuida da saúde sem abrir mão do sabor."
     },
     {
       "nome": "Café Encanto",
       "tipo": "Cesta",
       "preço": "225,00",
-      "imagem": "encanto.jpeg"
+      "imagem": "encanto.jpeg",
+      "Descricao": "Cesta especial para os amantes de café, com grãos selecionados, biscoitos artesanais e acompanhamentos gourmet."
     }
   ]
 
