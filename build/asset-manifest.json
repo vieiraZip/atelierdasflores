@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9bb661e1.css",
+    "main.js": "/static/js/main.cf12315f.js",
+    "static/media/Entrega Grátis (Banner Clássico para Mercado Shops – Computador (grande)).png": "/static/media/Entrega Grátis (Banner Clássico para Mercado Shops – Computador (grande)).a4f6a5cb4e2efc218dc6.png",
+    "static/media/Cópia de Entrega Grátis (Banner Clássico para Mercado Shops – Computador (grande)).png": "/static/media/Cópia de Entrega Grátis (Banner Clássico para Mercado Shops – Computador (grande)).a7384b44c9494ffb51d4.png",
+    "static/media/coroarosavermelha.jpg": "/static/media/coroarosavermelha.e91175d842d0cc93b3ec.jpg",
+    "static/media/cestachocolates.jpg": "/static/media/cestachocolates.c16ae8efc84f5bdd156e.jpg",
+    "static/media/bannermobile.jpg": "/static/media/bannermobile.6782af185a003fe14aca.jpg",
+    "static/media/coroaespecial.jpg": "/static/media/coroaespecial.b29d3484aba4444360ed.jpg",
+    "static/media/coroaazul.jpg": "/static/media/coroaazul.a483dc5455a30efbe5a3.jpg",
+    "static/media/bannernamorados.jpg": "/static/media/bannernamorados.8585bb93eafb11392c80.jpg",
+    "static/media/mix.jpg": "/static/media/mix.ab5511afa09504797531.jpg",
+    "static/media/littlecesta.jpg": "/static/media/littlecesta.ec90e1e05317f8135e60.jpg",
+    "static/media/encanto.jpeg": "/static/media/encanto.1662b3d12019660996b4.jpeg",
+    "static/media/coroarosabranca.jpg": "/static/media/coroarosabranca.14f2384f2ba347b9dbf2.jpg",
+    "static/media/alegriablue.jpg": "/static/media/alegriablue.25ae349c433314ab32ea.jpg",
+    "static/media/ramalhetedocampo.jpg": "/static/media/ramalhetedocampo.324a768a5788231d3d1b.jpg",
+    "static/media/luxury.jpg": "/static/media/luxury.43a1c3987f0ec71bde47.jpg",
+    "static/media/6rosas.jpg": "/static/media/6rosas.ef854188fc782bfce4da.jpg",
+    "static/media/fit.jpg": "/static/media/fit.024b06bce9982b6d0eaa.jpg",
+    "static/media/rosa.jpg": "/static/media/rosa.7dacbd6915d5db82abf6.jpg",
+    "static/media/bannercoroas.jpg": "/static/media/bannercoroas.02d8953157b44bf763e5.jpg",
+    "static/media/amore.jpg": "/static/media/amore.f0469a79e8eb4894acac.jpg",
+    "static/media/bannercoroasmobile.jpg": "/static/media/bannercoroasmobile.12111527652ac5d5f8bf.jpg",
+    "static/media/bannernamoradosmobile.jpg": "/static/media/bannernamoradosmobile.b8054a05ccab5a94c6e4.jpg",
+    "static/media/triogirassois.jpg": "/static/media/triogirassois.8ee0c085f883ec3d4b21.jpg",
+    "static/media/logo.jpeg": "/static/media/logo.2bb9d029de6832e3add3.jpeg",
+    "index.html": "/index.html",
+    "main.9bb661e1.css.map": "/static/css/main.9bb661e1.css.map",
+    "main.cf12315f.js.map": "/static/js/main.cf12315f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bb661e1.css",
+    "static/js/main.cf12315f.js"
+  ]
+}
