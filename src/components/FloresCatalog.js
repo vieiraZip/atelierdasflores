@@ -28,7 +28,7 @@ function FloresCatalog() {
   };
 
   const whatsappMessage = "Olá! Gostaria de fazer um pedido pelo catálogo de flores.";
-  const whatsappUrl = `https://wa.me/+554788338901?text=${encodeURIComponent(whatsappMessage)}`;
+  const whatsappUrl = `https://wa.me/+5547881507030?text=${encodeURIComponent(whatsappMessage)}`;
 
   const openModal = (produto) => {
     setSelectedProduct(produto);
@@ -51,6 +51,9 @@ function FloresCatalog() {
           </nav>
           <h1 className="catalog-title">Catálogo de Buquês e Arranjos</h1>
           <p className="catalog-subtitle">Descubra nossa seleção especial de buquês e arranjos florais</p>
+          <div className="catalog-message">
+            <p><strong> Chame no WhatsApp para ver o catálogo completo!</strong></p>
+          </div>
         </div>
       </div>
 
@@ -75,10 +78,12 @@ function FloresCatalog() {
                 
                 <div className="catalog-product-info-compact">
                   <h3 className="catalog-product-name-compact">{produto.nome}</h3>
-                  <p className="catalog-product-price-compact">R$ {produto.preço}</p>
+                  <p className="catalog-product-description-compact">
+                    {produto.Descricao || 'Buquê especial feito com flores frescas e muito carinho.'}
+                  </p>
                   
                   <a 
-                    href={`${whatsappUrl}&text=${encodeURIComponent(`Olá! Gostaria de encomendar: ${produto.nome} - R$ ${produto.preço}`)}`}
+                    href={`${whatsappUrl}&text=${encodeURIComponent(`Olá! Gostaria de encomendar: ${produto.nome}`)}`}
                     target="_blank" 
                     rel="noopener noreferrer" 
                     className="catalog-order-btn-compact"
@@ -130,13 +135,13 @@ function FloresCatalog() {
               
               <div className="modal-product-details">
                 <h2 className="modal-product-name">{selectedProduct.nome}</h2>
-                <p className="modal-product-price">R$ {selectedProduct.preço}</p>
+                <p className="modal-product-type">{selectedProduct.tipo}</p>
                 <p className="modal-product-description">
-                  {selectedProduct.Descricao || 'Belo arranjo floral feito com carinho e dedicação.'}
+                  {selectedProduct.Descricao || 'Buquê especial feito com flores frescas e muito carinho.'}
                 </p>
                 
                 <a 
-                  href={`${whatsappUrl}&text=${encodeURIComponent(`Olá! Gostaria de encomendar: ${selectedProduct.nome} - R$ ${selectedProduct.preço}`)}`}
+                  href={`${whatsappUrl}&text=${encodeURIComponent(`Olá! Gostaria de encomendar: ${selectedProduct.nome}`)}`}
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="modal-order-btn"

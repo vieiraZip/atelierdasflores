@@ -4,28 +4,28 @@
       "tipo": "Buquê",
       "preço": "152,00",
       "imagem": "6rosas.jpg",
-      "Descricao": "Elegante buquê com 6 rosas vermelhas frescas, embalado com papel decorativo e laço de cetim. Perfeito para demonstrar amor e carinho."
+      "Descricao": "Elegante buquê com 6 rosas vermelhas, embalado com papel decorativo."
     },
     {
       "nome": "Buquê Luxury",
       "tipo": "Buquê",
       "preço": "220,00",
       "imagem": "luxury.jpg",
-      "Descricao": "Arranjo premium com rosas importadas, flores complementares e embalagem luxuosa. Uma escolha sofisticada para ocasiões especiais."
+      "Descricao": "Arranjo premium com rosas, flores complementares e embalagem luxuosa."
     },
     {
       "nome": "Rosa Unitária",
       "tipo": "Buquê",
       "preço": "24,90",
       "imagem": "rosa.jpg",
-      "Descricao": "Rosa vermelha individual de alta qualidade, ideal para gestos simples mas significativos. Embalada com carinho."
+      "Descricao": "Rosa vermelha individual de alta qualidade, ideal para gestos simples e significativos."
     },
     {
       "nome": "Trio de Girassóis",
       "tipo": "Buquê",
       "preço": "140,00",
       "imagem": "triogirassois.jpg",
-      "Descricao": "Alegre combinação de 3 girassóis vibrantes, simbolizando felicidade e energia positiva. Perfeito para alegrar o dia."
+      "Descricao": "Alegre combinação de 3 girassóis vibrantes, simbolizando felicidade e energia positiva."
     },
     {
       "nome": "Buquê Mix G",
@@ -46,14 +46,14 @@
       "tipo": "Cesta",
       "preço": "265,00",
       "imagem": "amore.jpeg",
-      "Descricao": "Cesta romântica com chocolates gourmet, vinhos selecionados e itens especiais para momentos a dois. Perfeita para demonstrar amor."
+      "Descricao": "Cesta romântica com arranjo de flores e itens especiais. Perfeita para demonstrar amor."
     },
     {
       "nome": "Delícia Fit",
       "tipo": "Cesta",
       "preço": "285,00",
       "imagem": "fit.jpeg",
-      "Descricao": "Cesta saudável com produtos naturais, frutas secas, chocolates diet e itens fit. Para quem cuida da saúde sem abrir mão do sabor."
+      "Descricao": "Cesta saudável com produtos naturais, frutas, chocolates diet e itens fit. Para quem cuida da saúde sem abrir mão do sabor."
     },
     {
       "nome": "Café Encanto",
@@ -61,6 +61,55 @@
       "preço": "225,00",
       "imagem": "encanto.jpeg",
       "Descricao": "Cesta especial para os amantes de café, com grãos selecionados, biscoitos artesanais e acompanhamentos gourmet."
+    },
+    {
+      "nome": "Coroa com Rosas Brancas",
+      "tipo": "Coroa",
+      "preço": "",
+      "imagem": "coroarosabranca.jpg",
+      "Descricao": "Coroa 2 bolas com rosas brancas."
+    },
+    {
+      "nome": "Coroa com Rosas Vermelhas",
+      "tipo": "Coroa",
+      "preço": "",
+      "imagem": "coroarosavermelha.jpg",
+      "Descricao": "Coroa 2 bolas com rosas vermelhas."
+    },
+    {
+      "nome": "Coroa Especial Azul",
+      "tipo": "Coroa",
+      "preço": "",
+      "imagem": "coroaazul.jpg",
+      "Descricao": "Coroa especial azul"
+    },
+    {
+      "nome": "Coroa Especial",
+      "tipo": "Coroa",
+      "preço": "",
+      "imagem": "coroaespecial.jpg",
+      "Descricao": "Coroa especial com flores variadas."
+    },
+    {
+      "nome": "Ramalhete Flores do Campo",
+      "tipo": "Ramalhete",
+      "preço": "",
+      "imagem": "ramalhetedocampo.jpg",
+      "Descricao": "Lindas flores do campo com girassóis, rosas, lírios e mosquitinho."
+    },
+    {
+      "nome": "Girassol Alegria Blue",
+      "tipo": "Ramalhete",
+      "preço": "",
+      "imagem": "alegriablue.jpg",
+      "Descricao": "Lindo girassol com 3 rosas azuis e ferrero rocher."
+    },
+    {
+      "nome": "Cesta de Chocolates",
+      "tipo": "Cesta",
+      "preço": "",
+      "imagem": "cestachocolates.jpeg",
+      "Descricao": "Cesta caprichada com chocolates e itens chocolatudos!"
     }
   ]
 

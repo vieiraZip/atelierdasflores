@@ -50,10 +50,10 @@ function Header() {
             Cestas
           </Link>
           <Link 
-            to="/presentes" 
-            className={`nav-btn ${location.pathname === '/presentes' ? 'active' : ''}`}
+            to="/ramalhetes" 
+            className={`nav-btn ${location.pathname === '/ramalhetes' ? 'active' : ''}`}
           >
-            Presentes
+            Ramalhetes
           </Link>
         </nav>
       </div>

@@ -7,6 +7,7 @@ import imgLittlecesta from '../assets/littlecesta.jpg';
 import imgAmore from '../assets/amore.jpg';
 import imgFit from '../assets/fit.jpg';
 import imgEncanto from '../assets/encanto.jpeg';
+import imgCestachocolates from '../assets/cestachocolates.jpg';
 
 function CestasCatalog() {
   const cestas = data.filter(item => item.tipo === 'Cesta');
@@ -23,6 +24,7 @@ function CestasCatalog() {
     'amore.jpeg': imgAmore,
     'fit.jpeg': imgFit,
     'encanto.jpeg': imgEncanto,
+    'cestachocolates.jpeg': imgCestachocolates,
   };
 
   // Descrições dos produtos (dados mockados para demonstração)
@@ -34,7 +36,7 @@ function CestasCatalog() {
   };
 
   const whatsappMessage = "Olá! Gostaria de fazer um pedido pelo catálogo de cestas.";
-  const whatsappUrl = `https://wa.me/+554788338901?text=${encodeURIComponent(whatsappMessage)}`;
+  const whatsappUrl = `https://wa.me/+5547881507030?text=${encodeURIComponent(whatsappMessage)}`;
 
   const openModal = (produto) => {
     setSelectedProduct(produto);
@@ -57,6 +59,9 @@ function CestasCatalog() {
           </nav>
           <h1 className="catalog-title">Catálogo de Cestas</h1>
           <p className="catalog-subtitle">Cestas especiais com produtos selecionados para presentear quem você ama</p>
+          <div className="catalog-message">
+            <p><strong>Chame no WhatsApp para ver o catálogo completo!</strong></p>
+          </div>
         </div>
       </div>
 
@@ -94,10 +99,12 @@ function CestasCatalog() {
                     
                     <div className="catalog-product-info-compact">
                       <h3 className="catalog-product-name-compact">{produto.nome}</h3>
-                      <p className="catalog-product-price-compact">R$ {produto.preço}</p>
+                      <p className="catalog-product-description-compact">
+                        {produto.Descricao || 'Cesta especial com produtos selecionados e embalagem caprichada.'}
+                      </p>
                       
                       <a 
-                        href={`${whatsappUrl}&text=${encodeURIComponent(`Olá! Gostaria de encomendar: ${produto.nome} - R$ ${produto.preço}`)}`}
+                        href={`${whatsappUrl}&text=${encodeURIComponent(`Olá! Gostaria de encomendar: ${produto.nome}`)}`}
                         target="_blank" 
                         rel="noopener noreferrer" 
                         className="catalog-order-btn-compact"
@@ -151,13 +158,12 @@ function CestasCatalog() {
               
               <div className="modal-product-details">
                 <h2 className="modal-product-name">{selectedProduct.nome}</h2>
-                <p className="modal-product-price">R$ {selectedProduct.preço}</p>
                 <p className="modal-product-description">
                   {selectedProduct.Descricao || 'Cesta especial com produtos selecionados e embalagem caprichada.'}
                 </p>
                 
                 <a 
-                  href={`${whatsappUrl}&text=${encodeURIComponent(`Olá! Gostaria de encomendar: ${selectedProduct.nome} - R$ ${selectedProduct.preço}`)}`}
+                  href={`${whatsappUrl}&text=${encodeURIComponent(`Olá! Gostaria de encomendar: ${selectedProduct.nome}`)}`}
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="modal-order-btn"
