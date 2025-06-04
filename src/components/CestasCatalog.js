@@ -36,7 +36,7 @@ function CestasCatalog() {
   };
 
   const whatsappMessage = "Olá! Gostaria de fazer um pedido pelo catálogo de cestas.";
-  const whatsappUrl = `https://wa.me/+5547881507030?text=${encodeURIComponent(whatsappMessage)}`;
+  const whatsappUrl = `https://wa.me/+55479881507030?text=${encodeURIComponent(whatsappMessage)}`;
 
   const openModal = (produto) => {
     setSelectedProduct(produto);

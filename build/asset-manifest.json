@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9bb661e1.css",
-    "main.js": "/static/js/main.cf12315f.js",
+    "main.js": "/static/js/main.e821f4c2.js",
     "static/media/Entrega Grátis (Banner Clássico para Mercado Shops – Computador (grande)).png": "/static/media/Entrega Grátis (Banner Clássico para Mercado Shops – Computador (grande)).a4f6a5cb4e2efc218dc6.png",
     "static/media/Cópia de Entrega Grátis (Banner Clássico para Mercado Shops – Computador (grande)).png": "/static/media/Cópia de Entrega Grátis (Banner Clássico para Mercado Shops – Computador (grande)).a7384b44c9494ffb51d4.png",
     "static/media/coroarosavermelha.jpg": "/static/media/coroarosavermelha.e91175d842d0cc93b3ec.jpg",
@@ -28,10 +28,10 @@
     "static/media/logo.jpeg": "/static/media/logo.2bb9d029de6832e3add3.jpeg",
     "index.html": "/index.html",
     "main.9bb661e1.css.map": "/static/css/main.9bb661e1.css.map",
-    "main.cf12315f.js.map": "/static/js/main.cf12315f.js.map"
+    "main.e821f4c2.js.map": "/static/js/main.e821f4c2.js.map"
   },
   "entrypoints": [
     "static/css/main.9bb661e1.css",
-    "static/js/main.cf12315f.js"
+    "static/js/main.e821f4c2.js"
   ]
 }
